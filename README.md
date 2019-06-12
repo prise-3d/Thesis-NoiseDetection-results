@@ -4,10 +4,10 @@
 
 Project that gathers all the results and simulations obtained for the detection of noise in computer graphics.
 
-## Projects
+## Projects results
 
-- [NoiseDetection-CNN](https://github.com/prise-3d/Thesis-NoiseDetection-CNN.git)
-- [NoiseDetection-metrics](https://github.com/prise-3d/Thesis-NoiseDetection-metrics.git)
+- [NoiseDetection-CNN](NoiseDetection-CNN/RESULTS.md)
+- [NoiseDetection-metrics](NoiseDetection-metrics/RESULTS.md)
 
 ## License
 
