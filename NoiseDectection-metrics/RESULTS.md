@@ -129,3 +129,26 @@ Use of different way to train data:
 - svd_reconstruct
 - highest_sv_std_filters (use of different filters on images and SVD computed on it)
 - lowest_sv_std_filters (use of different filters on images and SVD computed on it)
+
+
+# NoiseDetection-26-attributes
+
+## Description
+ 
+All results obtained from [NoiseDetection-26-attributes](https://github.com/prise-3d/Thesis-NoiseDetection-26-attributes.git) project in order to classify noisy or not noisy synthesis images obtained from monte carlo rendering process.
+
+## Results
+
+### 1.FirstResults
+
+#### Description
+
+Study of statistics features extracted from filters applied on synthesis images in order to detect noise.
+
+#### Parameters
+- Kind of normalization (3 differents way)
+- Number of zones taken ramdomly in training set from the 16 available of an image
+
+#### Pool of features
+
+- filters_statistics (statistics obtained from applied fitlers)
