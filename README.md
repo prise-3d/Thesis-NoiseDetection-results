@@ -7,7 +7,8 @@ Project that gathers all the results and simulations obtained for the detection 
 ## Projects results
 
 - [NoiseDetection-CNN](NoiseDetection-CNN/RESULTS.md)
-- [NoiseDetection-metrics](NoiseDetection-metrics/RESULTS.md)
+- [NoiseDetection-attributes](NoiseDetection-attributes/RESULTS.md)
+- [NoiseDetection-26-attributes](NoiseDetection-26-attributes/RESULTS.md)
 
 ## License
 
