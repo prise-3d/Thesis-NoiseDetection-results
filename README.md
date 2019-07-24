@@ -12,4 +12,4 @@ Project that gathers all the results and simulations obtained for the detection 
 
 ## License
 
-[The MIT License](https://github.com/prise-3d/Thesis-NoiseDetection-results/blob/master/LICENSE)
+[The MIT License](LICENSE)
