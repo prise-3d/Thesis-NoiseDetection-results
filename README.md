@@ -7,8 +7,9 @@ Project that gathers all the results and simulations obtained for the detection 
 ## Projects results
 
 - [NoiseDetection-CNN](NoiseDetection-CNN/RESULTS.md)
-- [NoiseDetection-metrics](NoiseDetection-metrics/RESULTS.md)
+- [NoiseDetection-attributes](NoiseDetection-attributes/RESULTS.md)
+- [NoiseDetection-26-attributes](NoiseDetection-26-attributes/RESULTS.md)
 
 ## License
 
-[The MIT License](https://github.com/prise-3d/Thesis-NoiseDetection-results/blob/master/LICENSE)
+[The MIT License](LICENSE)
