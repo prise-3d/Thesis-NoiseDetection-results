@@ -1,0 +1,22 @@
+data_file; ils_iteration; ls_iteration; best_solution; nb_attributes; nb_filters; fitness (roc test);
+data/svm_model_N26_B0_E26_nb_zones_8_filters_statistics_svdne_all;10000;20;[0 1 1 1 1 0 1 1 1 0 0 0 0 0 1 1 0 1 0 1 0 0 0 1 0 0];12;9;0.8873873873873873
+data/ensemble_model_N26_B0_E26_nb_zones_10_filters_statistics_svdne_all_attributes;10000;20;[0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 0 1 1 1 1 0 0];16;10;0.8659217877094972
+data/svm_model_N26_B0_E26_nb_zones_10_filters_statistics_svdne_all_attributes;10000;20;[0 1 0 1 0 0 1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 1 0 1];11;9;0.8977272727272727
+data/svm_model_N26_B0_E26_nb_zones_10_filters_statistics_svdn_all_attributes;10000;20;[0 1 1 0 1 1 0 1 0 0 1 0 0 0 0 0 1 0 1 0 1 0 0 1 0 1];11;10;0.9107142857142857
+data/ensemble_model_v2_N26_B0_E26_nb_zones_10_filters_statistics_svdn_all_attributes;10000;20;[1 1 0 0 1 1 1 0 1 0 0 0 1 1 0 1 0 0 0 0 1 1 0 1 0 1];13;9;0.9161490683229813
+data/ensemble_model_N26_B0_E26_nb_zones_10_filters_statistics_svdn_all_attributes;10000;20;[1 1 1 0 0 1 0 0 0 1 1 1 0 0 1 0 0 1 0 0 0 0 1 1 0 1];12;9;0.8775510204081632
+data/ensemble_model_v2_N26_B0_E26_nb_zones_10_filters_statistics_svdne_all_attributes;10000;20;[0 1 0 0 1 1 0 0 0 0 1 0 0 0 1 1 1 0 1 0 0 1 1 1 1 0];12;9;0.8262411347517731
+data/ensemble_model_v2_N26_B0_E26_nb_zones_10_filters_statistics_svd_all_attributes;10000;20;[1 0 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0 1 0 0];13;9;0.8706896551724138
+data/ensemble_model_N26_B0_E26_nb_zones_8_filters_statistics_svdne_all;10000;20;[0 0 1 0 1 0 0 1 0 0 1 0 0 1 1 1 1 1 0 0 1 0 1 1 0 0];12;9;0.8876146788990825
+data/ensemble_model_N26_B0_E26_nb_zones_12_filters_statistics_svdn_all_attributes;10000;20;[1 1 0 1 1 1 0 0 0 1 0 1 0 0 1 1 1 1 0 1 0 0 0 1 0 1];14;10;0.8975409836065575
+data/ensemble_model_N26_B0_E26_nb_zones_10_filters_statistics_svd_all_attributes;10000;20;[1 1 1 0 1 1 0 1 1 0 1 1 1 0 0 0 0 1 0 0 1 0 1 1 0 1];15;11;0.9255952380952382
+data/ensemble_model_N26_B0_E26_nb_zones_12_filters_statistics_svdne_all_attributes;10000;20;[0 1 1 0 0 1 0 1 0 0 1 0 1 1 0 1 1 1 1 0 0 0 0 1 0 1];13;11;0.9421487603305786
+data/ensemble_model_v2_N26_B0_E26_nb_zones_12_filters_statistics_svdn_all_attributes;10000;20;[1 0 0 1 0 0 1 1 1 1 1 0 0 0 1 1 1 0 0 1 1 0 0 1 0 0];13;10;0.8632478632478632
+data/svm_model_N26_B0_E26_nb_zones_12_filters_statistics_svdn_all_attributes;10000;20;[1 1 0 1 1 1 0 1 1 1 0 1 0 0 1 1 1 1 1 1 1 0 1 1 0 1];19;12;0.9655172413793104
+data/svm_model_N26_B0_E26_nb_zones_10_filters_statistics_svd_all_attributes;10000;20;[0 1 0 1 0 0 0 0 1 1 0 1 1 0 1 1 0 0 1 0 0 0 0 1 1 1];12;9;0.8765432098765432
+data/ensemble_model_v2_N26_B0_E26_nb_zones_12_filters_statistics_svdne_all_attributes;10000;20;[1 0 1 0 0 1 0 0 1 0 0 0 1 1 0 0 1 0 0 0 0 0 0 1 0 1];9;8;0.8738738738738738
+data/svm_model_N26_B0_E26_nb_zones_12_filters_statistics_svdne_all_attributes;10000;20;[0 1 0 1 0 1 1 1 0 0 1 1 1 0 1 0 0 0 0 1 1 0 0 1 1 0];13;11;0.938095238095238
+data/ensemble_model_v2_N26_B0_E26_nb_zones_12_filters_statistics_svd_all_attributes;10000;20;[1 1 0 0 0 0 0 1 1 1 0 0 0 1 0 0 0 1 0 1 0 0 1 1 0 0];10;7;0.9391304347826086
+data/svm_model_N26_B0_E26_nb_zones_12_filters_statistics_svd_all_attributes;10000;20;[1 0 0 1 0 0 0 0 1 1 1 0 1 0 0 0 0 0 1 0 1 1 1 1 1 1];13;9;0.897196261682243
+data/ensemble_model_v2_N26_B0_E26_nb_zones_8_filters_statistics_svdne_all;10000;20;[1 1 0 1 1 1 0 0 1 0 0 0 1 0 0 1 0 1 1 1 1 0 0 1 1 1];15;11;0.8606194690265487
+data/ensemble_model_N26_B0_E26_nb_zones_12_filters_statistics_svd_all_attributes;10000;20;[1 1 1 0 1 1 1 1 0 1 1 1 1 0 1 0 1 0 1 0 0 1 0 1 1 1];18;13;0.8101851851851851
